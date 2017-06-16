@@ -1,7 +1,7 @@
 # Tennis Game
 HTML 5 Canvas/JavaScript basic tennis game, following the Chris DeLeon course on Udemy.com.
 
-### Language
+### Languages
 
 * HTML 5
 * JavaScript
